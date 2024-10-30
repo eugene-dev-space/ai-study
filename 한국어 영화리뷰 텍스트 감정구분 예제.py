@@ -254,36 +254,11 @@ predict = model.predict(x_test_pad[:1])
 
 predict
 
-"""<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+"""
 
 + BERT 이용하여 Classification하기
 + KoBert 활용하여 감정말뭉치 데이터 감성 분류
 
-<br>
-<br>
 
 #   
 ## 1. 라이브러리 임포트
